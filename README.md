@@ -6,7 +6,7 @@ Some of the languages and tools I've worked with include:
 - 🐍 Python | ⚡ TypeScript | 💻 JavaScript | 🚀 C++
 - ⚛️ React | ⚡ FastAPI | 🔥 Flask
 - 🗄️ PostgreSQL | 🍃 MongoDB
-- 🧠 TensorFlow | 📊 scikit-learn
+- 🧠 TensorFlow | 📊 scikit-learn | 👀 OpenCV | 🔗 LangChain
 - 🤖 Selenium
 
 ---
