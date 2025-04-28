@@ -1,6 +1,6 @@
 ## Hi there, I'm Adhy 👋
 
-I'm passionate about **Data**, **AI** and **Software Development**!  
+I'm passionate about **Data**, **AI**, and **Software Development**!  
 Some of the languages and tools I've worked with include:
 
 - 🐍 Python | ⚡ TypeScript | 💻 JavaScript | 🚀 C++
