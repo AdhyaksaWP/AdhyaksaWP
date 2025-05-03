@@ -13,7 +13,8 @@ Some of the languages and tools I've worked with include:
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyaksaWP&layout=compact&theme=radical)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyaksaWP&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyaksaWP&layout=compact&theme=radical&cache_buster=1714710000
+)
 
 ---
 
