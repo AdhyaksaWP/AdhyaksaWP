@@ -3,12 +3,13 @@
 I'm passionate about **Data**, **AI**, and **Software Development**!  
 Some of the languages and tools I've worked with include:
 
-- 🐍 Python | ⚡ TypeScript | 💻 JavaScript | 🚀 C++
-- ⚛️ React | ⚡ FastAPI | 🔥 Flask
-- 🗄️ PostgreSQL | 🍃 MongoDB
+- 🐍 Python | 🚀 C & C++ |⚡ TypeScript & JavaScript | 💙 Dart | ➤ Golang
+- ⚛️ React | 📱 Flutter |⚡ FastAPI & Flask
+- 🗄️ PostgreSQL | 🍃 MongoDB | 🔥 Firebase | 
 - 🧠 TensorFlow | 📊 scikit-learn | 👀 OpenCV | 🔗 LangChain
 - 🤖 Selenium
 
+While I’ve explored a wide range of technologies, I naturally gravitate towards AI and Data – that's where my curiosity thrives. 😊
 ---
 
 ### 📈 GitHub Stats
