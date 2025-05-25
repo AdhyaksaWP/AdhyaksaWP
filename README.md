@@ -9,7 +9,6 @@ Some of the languages and tools I've worked with include:
 - 🧠 TensorFlow | 📊 scikit-learn | 👀 OpenCV | 🔗 LangChain
 - 🤖 Selenium
 
-While I’ve explored a wide range of technologies, I naturally gravitate towards AI and Data – that's where my curiosity thrives. 😊
 ---
 
 ### 📈 GitHub Stats
