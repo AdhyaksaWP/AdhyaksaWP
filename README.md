@@ -7,11 +7,16 @@ Some of the languages and tools I've worked with include:
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,typescript,javascript,dart,go&perline=7)](https://skillicons.dev)
 
 ## 🌐 Web Frameworks & Tools
-[![Web Frameworks](https://skillicons.dev/icons?i=react,flutter,fastapi,flask&perline=4)](https://skillicons.dev)
+[![Web Frameworks](https://skillicons.dev/icons?i=react,flutter,fastapi,flask,docker,figma,tauri&perline=7)](https://skillicons.dev)
 
 ## 🤖 Machine Learning Frameworks
-[![ML Frameworks](https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&perline=3)](https://skillicons.dev) (and Langchain)
+[![ML Frameworks](https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&perline=3)](https://skillicons.dev)  
+<a href="https://www.langchain.com/">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40"/>
+</a>
 
+## 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase&perline=3)](https://skillicons.dev)
 
 ---
 
@@ -20,5 +25,3 @@ Some of the languages and tools I've worked with include:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyaksaWP&layout=compact&theme=radical&cache_buster=TIMESTAMP)
 
 ---
-
-
