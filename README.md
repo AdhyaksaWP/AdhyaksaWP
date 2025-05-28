@@ -10,7 +10,7 @@ Some of the languages and tools I've worked with include:
 [![Web Frameworks](https://skillicons.dev/icons?i=nextjs,react,flutter,fastapi,flask,docker,figma,tauri&perline=8)](https://skillicons.dev)
 
 ## 🤖 Machine Learning Frameworks
-[![ML Frameworks](https://skillicons.dev/icons?i=tensorflow,scikitlearn,opencv&perline=3)](https://skillicons.dev) (and LangChain)
+[![ML Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv&perline=4)](https://skillicons.dev)  (and LangChain)
 
 ## 🗄️ Databases
 [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase&perline=3)](https://skillicons.dev)
