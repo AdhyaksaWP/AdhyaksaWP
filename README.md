@@ -1,7 +1,7 @@
 ## Hi there, I'm Adhy 👋
 
-I like to code :)
-Interested in building AI systems, but also still keen on backend development in general
+I like to code :).
+Interested in building AI systems, but also still keen on backend development in general.
 
 Usual stuff i work with:
 
