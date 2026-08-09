@@ -8,6 +8,7 @@ Interested in data and AI kinda
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWQ5d2s4d2JxN2Q5a3R5c2l6dWQ1eW9qN2JmN2JmY2Q5eG5tbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="220"/>
 
 Feel free to reach me out!
+
 <a href="https://www.linkedin.com/in/adhyaksa-waruna-putro/">
   <img src="https://img.shields.io/badge/LinkedIn-Adhyaksa%20Waruna%20Putro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
